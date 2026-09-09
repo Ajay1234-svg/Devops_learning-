@@ -2,6 +2,7 @@
 echo "hello ajay"
 echo "i am learning devops"
 echo "i want to learn devops"
+echo "git revision"
 echo "git version control is working"
 echo "learning git diff"
 
